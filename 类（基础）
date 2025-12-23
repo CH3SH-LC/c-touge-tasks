@@ -1,0 +1,1224 @@
+### 1
+
+I:
+9891 7128 4478
+-8561 3507
+4189
+O:
+9891 7128
+4478
+1330 10635
+4189
+
+I:
+-1755 204 9960
+-3634 -5887
+3353
+O:
+-1755 204
+9960
+-5389 -5683
+3353
+
+I:
+4706 -2998 4542
+-2587 5975
+9473
+O:
+4706 -2998
+4542
+2119 2977
+9473
+
+### 2
+
+I:
+10:30:30
+08:10:10
+O:
+02:20:20
+
+I:
+11:11:11
+10:12:10
+O:
+00:59:01
+
+### 3
+
+I:
+65996 42121
+0.04
+30105
+O:
+1 65996.00 0.05
+2 42121.00 0.05
+1 69295.80 0.05
+2 44227.05 0.05
+1 72067.63 0.04
+2 45996.13 0.04
+1 74950.34 0.04
+2 47835.98 0.04
+3 31610.25 0.05
+
+I:
+69684 37344
+0.1
+58281
+O:
+1 69684.00 0.05
+2 37344.00 0.05
+1 73168.20 0.05
+2 39211.20 0.05
+1 80485.02 0.10
+2 43132.32 0.10
+1 88533.52 0.10
+2 47445.55 0.10
+3 61195.05 0.05
+
+I:
+56973 25469
+0.17
+28563
+O:
+1 56973.00 0.05
+2 25469.00 0.05
+1 59821.65 0.05
+2 26742.45 0.05
+1 69991.33 0.17
+2 31288.67 0.17
+1 81889.86 0.17
+2 36607.74 0.17
+3 29991.15 0.05
+
+### 4
+
+I:
+99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+O:
+188888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888887
+
+I:
+99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+O:
+188888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888887
+
+I:
+111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+O:
+333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+
+I:
+987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765
+567895678956789567895678956789567895678956789567895678956789567895678956789567895678956789567895678956789567895678956789567895678956789567895678956789
+O:
+1555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555554
+
+I:
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+O:
+999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+
+I:
+999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+O:
+1999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999998
+
+I:
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+22222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+O:
+33333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+
+I:
+987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765
+987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765987659876598765
+O:
+1975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197531975319753197530
+
+### 5
+
+I:
+86 51
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+Push 17 success!
+Push 18 success!
+Push 19 success!
+Push 20 success!
+Push 21 success!
+Push 22 success!
+Push 23 success!
+Push 24 success!
+Push 25 success!
+Push 26 success!
+Push 27 success!
+Push 28 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 28 success!
+Pop 27 success!
+Pop 26 success!
+Pop 25 success!
+Pop 24 success!
+Pop 23 success!
+Pop 22 success!
+Pop 21 success!
+Pop 20 success!
+Pop 19 success!
+Pop 18 success!
+Pop 17 success!
+Pop 16 success!
+Pop 15 success!
+Pop 14 success!
+Pop 13 success!
+Pop 12 success!
+Pop 11 success!
+Pop 10 success!
+Pop 9 success!
+Pop 8 success!
+Pop 7 success!
+Pop 6 success!
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 29 success!
+Push 30 success!
+Push 31 success!
+Push 32 success!
+Push 33 success!
+Push 34 success!
+Push 35 success!
+Push 36 success!
+Push 37 success!
+Push 38 success!
+Push 39 success!
+Push 40 success!
+Push 41 success!
+Push 42 success!
+Push 43 success!
+Push 44 success!
+Push 45 success!
+Push 46 success!
+Push 47 success!
+Push 48 success!
+Push 49 success!
+Push 50 success!
+Push 51 success!
+Push 52 success!
+Push 53 success!
+Push 54 success!
+Push 55 success!
+Push 56 success!
+Push 57 success!
+Push 58 success!
+Push 59 success!
+Push 60 success!
+Push 61 success!
+Push 62 success!
+Push 63 success!
+Push 64 success!
+Push 65 success!
+Push 66 success!
+Push 67 success!
+Push 68 success!
+Push 69 success!
+Push 70 success!
+Push 71 success!
+Push 72 success!
+Push 73 success!
+Push 74 success!
+Push 75 success!
+Push 76 success!
+Push 77 success!
+Push 78 success!
+Push 79 success!
+Push 80 fail!
+Push 81 fail!
+Push 82 fail!
+Push 83 fail!
+Push 84 fail!
+Push 85 fail!
+Push 86 fail!
+The stack is empty: 0
+The stack is full: 1
+Pop 79 success!
+Pop 78 success!
+Pop 77 success!
+Pop 76 success!
+Pop 75 success!
+Pop 74 success!
+Pop 73 success!
+Pop 72 success!
+Pop 71 success!
+Pop 70 success!
+Pop 69 success!
+Pop 68 success!
+Pop 67 success!
+Pop 66 success!
+Pop 65 success!
+Pop 64 success!
+Pop 63 success!
+Pop 62 success!
+Pop 61 success!
+Pop 60 success!
+Pop 59 success!
+Pop 58 success!
+Pop 57 success!
+Pop 56 success!
+Pop 55 success!
+Pop 54 success!
+Pop 53 success!
+Pop 52 success!
+Pop 51 success!
+The stack is empty: 0
+The stack is full: 0
+
+I:
+91 35
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+Push 17 success!
+Push 18 success!
+Push 19 success!
+Push 20 success!
+Push 21 success!
+Push 22 success!
+Push 23 success!
+Push 24 success!
+Push 25 success!
+Push 26 success!
+Push 27 success!
+Push 28 success!
+Push 29 success!
+Push 30 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 30 success!
+Pop 29 success!
+Pop 28 success!
+Pop 27 success!
+Pop 26 success!
+Pop 25 success!
+Pop 24 success!
+Pop 23 success!
+Pop 22 success!
+Pop 21 success!
+Pop 20 success!
+Pop 19 success!
+Pop 18 success!
+Pop 17 success!
+Pop 16 success!
+Pop 15 success!
+Pop 14 success!
+Pop 13 success!
+Pop 12 success!
+Pop 11 success!
+Pop 10 success!
+Pop 9 success!
+Pop 8 success!
+Pop 7 success!
+Pop 6 success!
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 31 success!
+Push 32 success!
+Push 33 success!
+Push 34 success!
+Push 35 success!
+Push 36 success!
+Push 37 success!
+Push 38 success!
+Push 39 success!
+Push 40 success!
+Push 41 success!
+Push 42 success!
+Push 43 success!
+Push 44 success!
+Push 45 success!
+Push 46 success!
+Push 47 success!
+Push 48 success!
+Push 49 success!
+Push 50 success!
+Push 51 success!
+Push 52 success!
+Push 53 success!
+Push 54 success!
+Push 55 success!
+Push 56 success!
+Push 57 success!
+Push 58 success!
+Push 59 success!
+Push 60 success!
+Push 61 success!
+Push 62 success!
+Push 63 success!
+Push 64 success!
+Push 65 success!
+Push 66 fail!
+Push 67 fail!
+Push 68 fail!
+Push 69 fail!
+Push 70 fail!
+Push 71 fail!
+Push 72 fail!
+Push 73 fail!
+Push 74 fail!
+Push 75 fail!
+Push 76 fail!
+Push 77 fail!
+Push 78 fail!
+Push 79 fail!
+Push 80 fail!
+Push 81 fail!
+Push 82 fail!
+Push 83 fail!
+Push 84 fail!
+Push 85 fail!
+Push 86 fail!
+Push 87 fail!
+Push 88 fail!
+Push 89 fail!
+Push 90 fail!
+Push 91 fail!
+The stack is empty: 0
+The stack is full: 1
+Pop 65 success!
+Pop 64 success!
+Pop 63 success!
+Pop 62 success!
+Pop 61 success!
+Pop 60 success!
+Pop 59 success!
+Pop 58 success!
+Pop 57 success!
+Pop 56 success!
+Pop 55 success!
+Pop 54 success!
+Pop 53 success!
+Pop 52 success!
+Pop 51 success!
+Pop 50 success!
+Pop 49 success!
+Pop 48 success!
+Pop 47 success!
+Pop 46 success!
+Pop 45 success!
+Pop 44 success!
+Pop 43 success!
+Pop 42 success!
+Pop 41 success!
+Pop 40 success!
+Pop 39 success!
+Pop 38 success!
+Pop 37 success!
+Pop 36 success!
+Pop 35 success!
+The stack is empty: 0
+The stack is full: 0
+
+I:
+76 55
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+Push 17 success!
+Push 18 success!
+Push 19 success!
+Push 20 success!
+Push 21 success!
+Push 22 success!
+Push 23 success!
+Push 24 success!
+Push 25 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 25 success!
+Pop 24 success!
+Pop 23 success!
+Pop 22 success!
+Pop 21 success!
+Pop 20 success!
+Pop 19 success!
+Pop 18 success!
+Pop 17 success!
+Pop 16 success!
+Pop 15 success!
+Pop 14 success!
+Pop 13 success!
+Pop 12 success!
+Pop 11 success!
+Pop 10 success!
+Pop 9 success!
+Pop 8 success!
+Pop 7 success!
+Pop 6 success!
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 26 success!
+Push 27 success!
+Push 28 success!
+Push 29 success!
+Push 30 success!
+Push 31 success!
+Push 32 success!
+Push 33 success!
+Push 34 success!
+Push 35 success!
+Push 36 success!
+Push 37 success!
+Push 38 success!
+Push 39 success!
+Push 40 success!
+Push 41 success!
+Push 42 success!
+Push 43 success!
+Push 44 success!
+Push 45 success!
+Push 46 success!
+Push 47 success!
+Push 48 success!
+Push 49 success!
+Push 50 success!
+Push 51 success!
+Push 52 success!
+Push 53 success!
+Push 54 success!
+Push 55 success!
+Push 56 success!
+Push 57 success!
+Push 58 success!
+Push 59 success!
+Push 60 success!
+Push 61 success!
+Push 62 success!
+Push 63 success!
+Push 64 success!
+Push 65 success!
+Push 66 success!
+Push 67 success!
+Push 68 success!
+Push 69 success!
+Push 70 success!
+Push 71 success!
+Push 72 success!
+Push 73 success!
+Push 74 success!
+Push 75 success!
+Push 76 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 76 success!
+Pop 75 success!
+Pop 74 success!
+Pop 73 success!
+Pop 72 success!
+Pop 71 success!
+Pop 70 success!
+Pop 69 success!
+Pop 68 success!
+Pop 67 success!
+Pop 66 success!
+Pop 65 success!
+Pop 64 success!
+Pop 63 success!
+Pop 62 success!
+Pop 61 success!
+Pop 60 success!
+Pop 59 success!
+Pop 58 success!
+Pop 57 success!
+Pop 56 success!
+Pop 55 success!
+Pop 54 success!
+Pop 53 success!
+Pop 52 success!
+Pop 51 success!
+The stack is empty: 0
+The stack is full: 0
+
+I:
+22 21
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 7 success!
+Pop 6 success!
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+Push 17 success!
+Push 18 success!
+Push 19 success!
+Push 20 success!
+Push 21 success!
+Push 22 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 22 success!
+Pop 21 success!
+Pop 20 success!
+Pop 19 success!
+Pop 18 success!
+Pop 17 success!
+Pop 16 success!
+Pop 15 success!
+The stack is empty: 0
+The stack is full: 0
+
+I:
+16 51
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 16 success!
+Pop 15 success!
+Pop 14 success!
+Pop 13 success!
+Pop 12 success!
+Pop 11 success!
+The stack is empty: 0
+The stack is full: 0
+
+I:
+11 9
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 11 success!
+Pop 10 success!
+Pop 9 success!
+Pop 8 success!
+The stack is empty: 0
+The stack is full: 0
+
+I:
+94 29
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+Push 17 success!
+Push 18 success!
+Push 19 success!
+Push 20 success!
+Push 21 success!
+Push 22 success!
+Push 23 success!
+Push 24 success!
+Push 25 success!
+Push 26 success!
+Push 27 success!
+Push 28 success!
+Push 29 success!
+Push 30 fail!
+Push 31 fail!
+The stack is empty: 0
+The stack is full: 1
+Pop 29 success!
+Pop 28 success!
+Pop 27 success!
+Pop 26 success!
+Pop 25 success!
+Pop 24 success!
+Pop 23 success!
+Pop 22 success!
+Pop 21 success!
+Pop 20 success!
+Pop 19 success!
+Pop 18 success!
+Pop 17 success!
+Pop 16 success!
+Pop 15 success!
+Pop 14 success!
+Pop 13 success!
+Pop 12 success!
+Pop 11 success!
+Pop 10 success!
+Pop 9 success!
+Pop 8 success!
+Pop 7 success!
+Pop 6 success!
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 32 success!
+Push 33 success!
+Push 34 success!
+Push 35 success!
+Push 36 success!
+Push 37 success!
+Push 38 success!
+Push 39 success!
+Push 40 success!
+Push 41 success!
+Push 42 success!
+Push 43 success!
+Push 44 success!
+Push 45 success!
+Push 46 success!
+Push 47 success!
+Push 48 success!
+Push 49 success!
+Push 50 success!
+Push 51 success!
+Push 52 success!
+Push 53 success!
+Push 54 success!
+Push 55 success!
+Push 56 success!
+Push 57 success!
+Push 58 success!
+Push 59 success!
+Push 60 success!
+Push 61 fail!
+Push 62 fail!
+Push 63 fail!
+Push 64 fail!
+Push 65 fail!
+Push 66 fail!
+Push 67 fail!
+Push 68 fail!
+Push 69 fail!
+Push 70 fail!
+Push 71 fail!
+Push 72 fail!
+Push 73 fail!
+Push 74 fail!
+Push 75 fail!
+Push 76 fail!
+Push 77 fail!
+Push 78 fail!
+Push 79 fail!
+Push 80 fail!
+Push 81 fail!
+Push 82 fail!
+Push 83 fail!
+Push 84 fail!
+Push 85 fail!
+Push 86 fail!
+Push 87 fail!
+Push 88 fail!
+Push 89 fail!
+Push 90 fail!
+Push 91 fail!
+Push 92 fail!
+Push 93 fail!
+Push 94 fail!
+The stack is empty: 0
+The stack is full: 1
+Pop 60 success!
+Pop 59 success!
+Pop 58 success!
+Pop 57 success!
+Pop 56 success!
+Pop 55 success!
+Pop 54 success!
+Pop 53 success!
+Pop 52 success!
+Pop 51 success!
+Pop 50 success!
+Pop 49 success!
+Pop 48 success!
+Pop 47 success!
+Pop 46 success!
+Pop 45 success!
+Pop 44 success!
+Pop 43 success!
+Pop 42 success!
+Pop 41 success!
+Pop 40 success!
+Pop 39 success!
+Pop 38 success!
+Pop 37 success!
+Pop 36 success!
+Pop 35 success!
+Pop 34 success!
+Pop 33 success!
+Pop 32 success!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+
+I:
+88 57
+O:
+The stack is empty: 1
+The stack is full: 0
+Push 1 success!
+Push 2 success!
+Push 3 success!
+Push 4 success!
+Push 5 success!
+Push 6 success!
+Push 7 success!
+Push 8 success!
+Push 9 success!
+Push 10 success!
+Push 11 success!
+Push 12 success!
+Push 13 success!
+Push 14 success!
+Push 15 success!
+Push 16 success!
+Push 17 success!
+Push 18 success!
+Push 19 success!
+Push 20 success!
+Push 21 success!
+Push 22 success!
+Push 23 success!
+Push 24 success!
+Push 25 success!
+Push 26 success!
+Push 27 success!
+Push 28 success!
+Push 29 success!
+The stack is empty: 0
+The stack is full: 0
+Pop 29 success!
+Pop 28 success!
+Pop 27 success!
+Pop 26 success!
+Pop 25 success!
+Pop 24 success!
+Pop 23 success!
+Pop 22 success!
+Pop 21 success!
+Pop 20 success!
+Pop 19 success!
+Pop 18 success!
+Pop 17 success!
+Pop 16 success!
+Pop 15 success!
+Pop 14 success!
+Pop 13 success!
+Pop 12 success!
+Pop 11 success!
+Pop 10 success!
+Pop 9 success!
+Pop 8 success!
+Pop 7 success!
+Pop 6 success!
+Pop 5 success!
+Pop 4 success!
+Pop 3 success!
+Pop 2 success!
+Pop 1 success!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+Pop fail!
+The stack is empty: 1
+The stack is full: 0
+Push 30 success!
+Push 31 success!
+Push 32 success!
+Push 33 success!
+Push 34 success!
+Push 35 success!
+Push 36 success!
+Push 37 success!
+Push 38 success!
+Push 39 success!
+Push 40 success!
+Push 41 success!
+Push 42 success!
+Push 43 success!
+Push 44 success!
+Push 45 success!
+Push 46 success!
+Push 47 success!
+Push 48 success!
+Push 49 success!
+Push 50 success!
+Push 51 success!
+Push 52 success!
+Push 53 success!
+Push 54 success!
+Push 55 success!
+Push 56 success!
+Push 57 success!
+Push 58 success!
+Push 59 success!
+Push 60 success!
+Push 61 success!
+Push 62 success!
+Push 63 success!
+Push 64 success!
+Push 65 success!
+Push 66 success!
+Push 67 success!
+Push 68 success!
+Push 69 success!
+Push 70 success!
+Push 71 success!
+Push 72 success!
+Push 73 success!
+Push 74 success!
+Push 75 success!
+Push 76 success!
+Push 77 success!
+Push 78 success!
+Push 79 success!
+Push 80 success!
+Push 81 success!
+Push 82 success!
+Push 83 success!
+Push 84 success!
+Push 85 success!
+Push 86 success!
+Push 87 fail!
+Push 88 fail!
+The stack is empty: 0
+The stack is full: 1
+Pop 86 success!
+Pop 85 success!
+Pop 84 success!
+Pop 83 success!
+Pop 82 success!
+Pop 81 success!
+Pop 80 success!
+Pop 79 success!
+Pop 78 success!
+Pop 77 success!
+Pop 76 success!
+Pop 75 success!
+Pop 74 success!
+Pop 73 success!
+Pop 72 success!
+Pop 71 success!
+Pop 70 success!
+Pop 69 success!
+Pop 68 success!
+Pop 67 success!
+Pop 66 success!
+Pop 65 success!
+Pop 64 success!
+Pop 63 success!
+Pop 62 success!
+Pop 61 success!
+Pop 60 success!
+Pop 59 success!
+Pop 58 success!
+Pop 57 success!
+The stack is empty: 0
+The stack is full: 0
